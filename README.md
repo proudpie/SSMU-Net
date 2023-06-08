@@ -22,3 +22,13 @@ We only need to import the preprocessing code instead of running them.
 For different datasets, what needs to be modified is the number of categories in the classfication network.
 
 ## Train:
+The selection of hyper-parameters is based on the original text of the paper. (The overall impact is not significant.)
+
+## Classification maps:
+two types:
+
+groundtruth
+
+overall image
+
+Need to select different datasets for classification and coloring.
