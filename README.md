@@ -28,7 +28,6 @@ The selection of hyper-parameters is based on the original text of the paper. (T
 two types:
 
 groundtruth
-
 overall image
 
-Need to select different datasets for classification and coloring.
+Please modify the dataloader for different types of classification results' visualization.
