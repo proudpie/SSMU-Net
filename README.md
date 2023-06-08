@@ -25,9 +25,6 @@ For different datasets, what needs to be modified is the number of categories in
 The selection of hyper-parameters is based on the original text of our paper. (The overall impact is not significant.)
 
 ## Classification maps
-two types:
+two types: the image with ground truth and the overall image
 
-groundtruth
-overall image
-
-Please modify the dataloader for different types of classification results' visualization.
+Please modify the dataloader for different types of classification results' visualizations.
