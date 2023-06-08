@@ -9,22 +9,22 @@ Xidian University
 
 ![readme_overall](https://github.com/proudpie/SSMU-Net/assets/134203137/df354067-187d-4afc-bf8c-1ac8a0df8981)
 
-## Data:
+## Data
 PAN and MS images
 the ground truth file
 
-## Preprocessing:
+## Preprocessing
 We provide four codes for preprocessing different datasets. 
 
 We only need to import the preprocessing code instead of running them.
 
-## Models:
+## Models
 For different datasets, what needs to be modified is the number of categories in the classfication network.
 
-## Train:
-The selection of hyper-parameters is based on the original text of the paper. (The overall impact is not significant.)
+## Train
+The selection of hyper-parameters is based on the original text of our paper. (The overall impact is not significant.)
 
-## Classification maps:
+## Classification maps
 two types:
 
 groundtruth
