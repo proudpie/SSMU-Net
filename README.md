@@ -19,3 +19,6 @@ We provide four codes for preprocessing different datasets.
 We only need to import the preprocessing code instead of running them.
 
 ## Models:
+For different datasets, what needs to be modified is the number of categories in the classfication network.
+
+## Train:
